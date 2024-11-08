@@ -93,3 +93,4 @@ When building a website, how can I decide which content I should write using HTM
 
 ### Response 5
 
+HTML and CSS can be used to set up the basic layout of a website, assigning its default styles and appearance when the website is first loaded. HTML and CSS are used to create and style static content, which does not need to change dynamically after the page loads. JavaScript and the DOM API can be used to alter a website as it is used for dynamic content that can be manipulated. For example, if a user's input causes a change in the appearance or layout of elements on a website or changes the page they are on, JavaScript and the DOM API can be used to program these changes so the user's actions will have the corresponding, intended impact. Using only JavaScript and the DOM API is not the best practice as HTML is more clearly structured and is faster.
